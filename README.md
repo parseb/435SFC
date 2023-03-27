@@ -14,3 +14,7 @@ tldr; stake ethereum, offices/campaigns withdraw % yield determined by staker st
 
 <b>Unknowns</b>:
 * law likely stipulates that only US citizens can donate.<br> Q: Does coinbase have any kind of on-chain US-KYC mechanisms such as `CB.isUS(msg.sender)->(true/false)`
+
+<b>Challanges</b>
+* unwithdrawn balances
+* timing thresholds if any necessary
